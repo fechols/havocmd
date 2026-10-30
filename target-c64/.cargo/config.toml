@@ -1,0 +1,9 @@
+[build]
+target = "mos-c64-none"
+
+[unstable]
+build-std = ["core"]
+
+[target.mos-c64-none]
+linker = "mos-c64-clang"
+rustflags = ["-C", "linker-plugin-lto"]

@@ -1,0 +1,23 @@
+[package]
+name = "havocmd-c64"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+build = "build.rs"
+
+[workspace]
+
+[[bin]]
+name = "havocmd-c64"
+path = "src/main.rs"
+test = false
+bench = false
+
+[profile.release]
+opt-level = "z"
+lto = "fat"
+codegen-units = 2
+panic = "abort"
+overflow-checks = false
+debug = true
+strip = false

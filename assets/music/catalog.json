@@ -1,0 +1,1149 @@
+{
+  "version": 1,
+  "profile": "stereo16k3",
+  "sample_rate": 16000,
+  "channels": 2,
+  "bits_per_sample": 3,
+  "output_bits_per_sample": 8,
+  "source_directory": "assets/music/source",
+  "playlist": [
+    "hammond-rocker",
+    "lowland-approach",
+    "crystal-cave",
+    "iron-canyon",
+    "canyon-gate",
+    "ashen-wastes",
+    "foundry-belt",
+    "fortress-run",
+    "citadel-core",
+    "storm-front",
+    "meteor-reach",
+    "carrier-coast",
+    "carrier-assault",
+    "asteroid-belt",
+    "lunar-awe",
+    "ship-graveyard",
+    "orbital-shipyard",
+    "space-carrier",
+    "jump-gate",
+    "mission-failed",
+    "galactic-dash"
+  ],
+  "tracks": [
+    {
+      "id": 0,
+      "name": "galactic-dash",
+      "title": "Galactic Dash",
+      "profile": "stereo16k3",
+      "codebook_count": 7341,
+      "expected_frames": 2457176,
+      "expected_asset_bytes": 2079626,
+      "source": {
+        "filename": "Galactic Dash.m4a",
+        "sha256": "2268d702186041820c6f68fb8f391f72c02be49560f779313a138eb5241cb933",
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration_seconds": 153.5735,
+        "container_duration_seconds": 153.56,
+        "codec": "opus",
+        "audio_bit_rate": 133322,
+        "original_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "encoder": "Lavf60.16.100",
+          "comment": "made with suno; created=2026-10-24T15:43:32Z; id=d1e23c31-d88b-417e-9587-193d00a89167"
+        },
+        "original_container_sha256": "e06435bc75978eb7f8c46319501d170010c4212211548b56e1486768e4e6d906",
+        "pcm_sha256": "597a256937729416465d2338c1cd8764adf246f039a9522b58939697d11a5f3c",
+        "current_container_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "artist": "William Echols",
+          "album": "H.A.V.O.C. OST",
+          "encoder": "Lavf62.12.101",
+          "comment": "made with suno; created=2026-10-24T15:43:32Z; id=d1e23c31-d88b-417e-9587-193d00a89167",
+          "track": "20"
+        }
+      },
+      "attribution": {
+        "composer": "William Echols",
+        "composed_for": "H.A.V.O.C.",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2026 William Echols"
+      },
+      "encoder_options": {
+        "training": "combined",
+        "beam_width": 128
+      },
+      "asset": "galactic-dash.dlt",
+      "metadata": "galactic-dash.json",
+      "status": "encoded_staged",
+      "expected_source_frames": 7371528,
+      "asset_sha256": "ae69d8bf3c986e76da5016c24c9278d7e4a7e55d233e5844681544000d557255"
+    },
+    {
+      "id": 1,
+      "name": "hammond-rocker",
+      "title": "Hammond Rocker",
+      "profile": "stereo16k3",
+      "codebook_count": 10036,
+      "expected_frames": 3358936,
+      "expected_asset_bytes": 2842847,
+      "source": {
+        "filename": "Hammond Rocker.m4a",
+        "sha256": "4a0e6696facf91c4867976ad9393ca1efbdaa08ef51f5fc70238f0f49552a3a1",
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration_seconds": 209.9335,
+        "container_duration_seconds": 209.92,
+        "codec": "opus",
+        "audio_bit_rate": 134315,
+        "original_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "encoder": "Lavf60.16.100",
+          "comment": "made with suno; created=2026-10-24T15:43:26Z; id=a0abe826-fc9c-4d8c-b36c-9740a5d7425f"
+        },
+        "original_container_sha256": "d935beaa0caebfe0aa3e7852b34d4baba320e037a5c4f2679b2b94e3b076e884",
+        "pcm_sha256": "feea2f6cb3dcce5c0de94cd9cf0710c2d5b329692e9d273dc740dc4063c486e4",
+        "current_container_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "artist": "William Echols",
+          "album": "H.A.V.O.C. OST",
+          "encoder": "Lavf62.12.101",
+          "comment": "made with suno; created=2026-10-24T15:43:26Z; id=a0abe826-fc9c-4d8c-b36c-9740a5d7425f",
+          "track": "19"
+        }
+      },
+      "attribution": {
+        "composer": "William Echols",
+        "composed_for": "H.A.V.O.C.",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2026 William Echols"
+      },
+      "encoder_options": {
+        "training": "combined",
+        "beam_width": 128
+      },
+      "asset": "hammond-rocker.dlt",
+      "metadata": "hammond-rocker.json",
+      "status": "encoded_staged",
+      "expected_source_frames": 10076808,
+      "asset_sha256": "33a43042e08b94e0c6912d81fe3eb77325907c32f0bb3adbd907766555ad7761"
+    },
+    {
+      "id": 2,
+      "name": "mission-failed",
+      "title": "Mission Failed",
+      "profile": "stereo16k3",
+      "codebook_count": 4275,
+      "expected_frames": 1430616,
+      "expected_asset_bytes": 1210842,
+      "source": {
+        "filename": "Mission Failed.m4a",
+        "sha256": "deba7836d448b471d4584d76066e19c0976c581fe810f3afa128c02124022156",
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration_seconds": 89.4135,
+        "container_duration_seconds": 89.4,
+        "codec": "opus",
+        "audio_bit_rate": 135183,
+        "original_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "encoder": "Lavf60.16.100",
+          "comment": "made with suno; created=2026-10-24T18:29:38Z; id=d74b7903-ba5b-45ce-ac34-89739dd181b9"
+        },
+        "original_container_sha256": "a24599081f09fb19a11cb11a44d59b26fb847766f92e7dae845094b842522b10",
+        "pcm_sha256": "343d6f12de0ac906b2430023773a5dc3323cc6e38e9918e85d6ce1a3a53fa9d9",
+        "current_container_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "artist": "William Echols",
+          "album": "H.A.V.O.C. OST",
+          "encoder": "Lavf62.12.101",
+          "comment": "made with suno; created=2026-10-24T18:29:38Z; id=d74b7903-ba5b-45ce-ac34-89739dd181b9",
+          "track": "21"
+        }
+      },
+      "attribution": {
+        "composer": "William Echols",
+        "composed_for": "H.A.V.O.C.",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2026 William Echols"
+      },
+      "encoder_options": {
+        "training": "combined",
+        "beam_width": 128
+      },
+      "asset": "mission-failed.dlt",
+      "metadata": "mission-failed.json",
+      "status": "encoded_staged",
+      "expected_source_frames": 4291848,
+      "asset_sha256": "d42a15c12c7d6c39e5e2d8c6d48a93349f68b85b9adac4269e7258e78b7100c6"
+    },
+    {
+      "id": 3,
+      "name": "lowland-approach",
+      "title": "Lowland Approach",
+      "profile": "stereo16k3",
+      "codebook_count": 4242,
+      "expected_frames": 1419736,
+      "expected_asset_bytes": 1201618,
+      "source": {
+        "filename": "Lowland Approach.m4a",
+        "sha256": "1fa83fbb076328f098d515055adefc4188864fb18057d3c99cea3d1d6a4822bd",
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration_seconds": 88.7335,
+        "container_duration_seconds": 88.72,
+        "codec": "opus",
+        "audio_bit_rate": 139227,
+        "original_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "encoder": "Lavf60.16.100",
+          "comment": "made with suno; created=2026-10-23T16:08:16Z; id=cab346fc-1faf-4131-b85f-8aefbc718146"
+        },
+        "original_container_sha256": "7a4da5a9faef4b8957596ee7a03f6629d0115cf2b31003d03faa542a6a71c855",
+        "pcm_sha256": "a36245bbdce6e44c5602257eb8d5a72fff05b79a7a39c43c38c1d486fd55458a",
+        "current_container_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "artist": "William Echols",
+          "album": "H.A.V.O.C. OST",
+          "encoder": "Lavf62.12.101",
+          "comment": "made with suno; created=2026-10-23T16:08:16Z; id=cab346fc-1faf-4131-b85f-8aefbc718146",
+          "track": "1"
+        }
+      },
+      "attribution": {
+        "composer": "William Echols",
+        "composed_for": "H.A.V.O.C.",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2026 William Echols"
+      },
+      "encoder_options": {
+        "training": "combined",
+        "beam_width": 128
+      },
+      "asset": "lowland-approach.dlt",
+      "metadata": "lowland-approach.json",
+      "status": "encoded_staged",
+      "expected_source_frames": 4259208,
+      "asset_sha256": "953d9067e45fbff8ecb108987f4d994e9c93fa1ea54d5fe127ac05acd51b1aae"
+    },
+    {
+      "id": 4,
+      "name": "crystal-cave",
+      "title": "Crystal Cave",
+      "profile": "stereo16k3",
+      "codebook_count": 4284,
+      "expected_frames": 1433816,
+      "expected_asset_bytes": 1213533,
+      "source": {
+        "filename": "Crystal Cave.m4a",
+        "sha256": "0b2c7498379dda756552dcb49db3dfbc118b7f0bf00e86e5d7a9c24019af817e",
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration_seconds": 89.6135,
+        "container_duration_seconds": 89.6,
+        "codec": "opus",
+        "audio_bit_rate": 143454,
+        "original_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "encoder": "Lavf60.16.100",
+          "comment": "made with suno; created=2026-10-23T16:16:29Z; id=0075a77a-72b8-4604-be25-003baade7916"
+        },
+        "original_container_sha256": "21f8acd1e00a6dad2ba6e7f168131bc06fa94114c9fd4743317167c11872f38a",
+        "pcm_sha256": "2f05e78713dcfe1ba6021d8b8c1569bee9ba2b902fcf60b6ae1b1b6f2b2ec6d3",
+        "current_container_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "artist": "William Echols",
+          "album": "H.A.V.O.C. OST",
+          "encoder": "Lavf62.12.101",
+          "comment": "made with suno; created=2026-10-23T16:16:29Z; id=0075a77a-72b8-4604-be25-003baade7916",
+          "track": "2"
+        }
+      },
+      "attribution": {
+        "composer": "William Echols",
+        "composed_for": "H.A.V.O.C.",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2026 William Echols"
+      },
+      "encoder_options": {
+        "training": "combined",
+        "beam_width": 128
+      },
+      "asset": "crystal-cave.dlt",
+      "metadata": "crystal-cave.json",
+      "status": "encoded_staged",
+      "expected_source_frames": 4301448,
+      "asset_sha256": "cf069b63d152628c80756506bd07594a4dd875286e779ea72a0c13c0af607c7a"
+    },
+    {
+      "id": 5,
+      "name": "iron-canyon",
+      "title": "Iron Canyon",
+      "profile": "stereo16k3",
+      "codebook_count": 4303,
+      "expected_frames": 1440216,
+      "expected_asset_bytes": 1218945,
+      "source": {
+        "filename": "Iron Canyon.m4a",
+        "sha256": "e01b60b78c1af7eaed1ccb5c2a4bac764bdd9c8c399632c87df71b24017c89fb",
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration_seconds": 90.0135,
+        "container_duration_seconds": 90.0,
+        "codec": "opus",
+        "audio_bit_rate": 136702,
+        "original_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "encoder": "Lavf60.16.100",
+          "comment": "made with suno; created=2026-10-23T16:26:57Z; id=b7a26662-c84a-45fa-8a79-37ddec851b1d"
+        },
+        "original_container_sha256": "9469763a5e52b73792157386457dbbf91a42737984cd9c43f137223bc9efbc0e",
+        "pcm_sha256": "8dafcf3771d74b3b8c4689446073257bfc8e346e8b8946618b2be009ec9c1f25",
+        "current_container_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "artist": "William Echols",
+          "album": "H.A.V.O.C. OST",
+          "encoder": "Lavf62.12.101",
+          "comment": "made with suno; created=2026-10-23T16:26:57Z; id=b7a26662-c84a-45fa-8a79-37ddec851b1d",
+          "track": "3"
+        }
+      },
+      "attribution": {
+        "composer": "William Echols",
+        "composed_for": "H.A.V.O.C.",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2026 William Echols"
+      },
+      "encoder_options": {
+        "training": "combined",
+        "beam_width": 128
+      },
+      "asset": "iron-canyon.dlt",
+      "metadata": "iron-canyon.json",
+      "status": "encoded_staged",
+      "expected_source_frames": 4320648,
+      "asset_sha256": "dbf608aa8c9c836fdd24ad6c43ead6864867c7a2eade7f41e5f4b653689eeb4e"
+    },
+    {
+      "id": 6,
+      "name": "canyon-gate",
+      "title": "Canyon Gate",
+      "profile": "stereo16k3",
+      "codebook_count": 4244,
+      "expected_frames": 1420376,
+      "expected_asset_bytes": 1202163,
+      "source": {
+        "filename": "Canyon Gate.m4a",
+        "sha256": "9ae764b0bbb5fb15cee7d226429e9f76a73592945b4c794a1ee56df72f3aadd6",
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration_seconds": 88.7735,
+        "container_duration_seconds": 88.76,
+        "codec": "opus",
+        "audio_bit_rate": 137573,
+        "original_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "encoder": "Lavf60.16.100",
+          "comment": "made with suno; created=2026-10-23T16:34:34Z; id=c00ecfba-88d9-4eb9-aaf0-d301f1cdc940"
+        },
+        "original_container_sha256": "660989d335055eec782abd3a5b52717ae60d18f2fba929e8d4ca4a7afd53e1cd",
+        "pcm_sha256": "11a49256793808efd0d12db005d840d9119bf560ae20a9bfb2020e7f8cd8b048",
+        "current_container_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "artist": "William Echols",
+          "album": "H.A.V.O.C. OST",
+          "encoder": "Lavf62.12.101",
+          "comment": "made with suno; created=2026-10-23T16:34:34Z; id=c00ecfba-88d9-4eb9-aaf0-d301f1cdc940",
+          "track": "4"
+        }
+      },
+      "attribution": {
+        "composer": "William Echols",
+        "composed_for": "H.A.V.O.C.",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2026 William Echols"
+      },
+      "encoder_options": {
+        "training": "combined",
+        "beam_width": 128
+      },
+      "asset": "canyon-gate.dlt",
+      "metadata": "canyon-gate.json",
+      "status": "encoded_staged",
+      "expected_source_frames": 4261128,
+      "asset_sha256": "3153fa9b0b3d8283438a9c6e84f0e117b69d9a1bc5516b395b3253a62ee098bd"
+    },
+    {
+      "id": 7,
+      "name": "ashen-wastes",
+      "title": "Ashen Wastes",
+      "profile": "stereo16k3",
+      "codebook_count": 4361,
+      "expected_frames": 1459416,
+      "expected_asset_bytes": 1235215,
+      "source": {
+        "filename": "Ashen Wastes.m4a",
+        "sha256": "29b6b35850ffd17b33ce39901ae4b0ef6c56cc72b7fdd5ced2d2bb097100841b",
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration_seconds": 91.2135,
+        "container_duration_seconds": 91.2,
+        "codec": "opus",
+        "audio_bit_rate": 138459,
+        "original_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "encoder": "Lavf60.16.100",
+          "comment": "made with suno; created=2026-10-23T16:39:44Z; id=3abcfd63-1b4b-43b1-a1cd-2e52d1f1fdfd"
+        },
+        "original_container_sha256": "4ebd52756727b0e073848b43e5a43ed48397733a35fa22c5a561082368775d0d",
+        "pcm_sha256": "41f9394f77bd0eb4e33378dfb69ec96c6afadcda731d3233a1779378b988b4a6",
+        "current_container_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "artist": "William Echols",
+          "album": "H.A.V.O.C. OST",
+          "encoder": "Lavf62.12.101",
+          "comment": "made with suno; created=2026-10-23T16:39:44Z; id=3abcfd63-1b4b-43b1-a1cd-2e52d1f1fdfd",
+          "track": "5"
+        }
+      },
+      "attribution": {
+        "composer": "William Echols",
+        "composed_for": "H.A.V.O.C.",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2026 William Echols"
+      },
+      "encoder_options": {
+        "training": "combined",
+        "beam_width": 128
+      },
+      "asset": "ashen-wastes.dlt",
+      "metadata": "ashen-wastes.json",
+      "status": "encoded_staged",
+      "expected_source_frames": 4378248,
+      "asset_sha256": "c5b84bea90e4604add847d3c8f40ab42801970ec9b263c8105cdb0a967fc4f38"
+    },
+    {
+      "id": 8,
+      "name": "foundry-belt",
+      "title": "Foundry Belt",
+      "profile": "stereo16k3",
+      "codebook_count": 4303,
+      "expected_frames": 1440216,
+      "expected_asset_bytes": 1218945,
+      "source": {
+        "filename": "Foundry Belt.m4a",
+        "sha256": "e2b72f720388828068d4409256dfaa88e835e3c1780388cfd79373d9c26c902b",
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration_seconds": 90.0135,
+        "container_duration_seconds": 90.0,
+        "codec": "opus",
+        "audio_bit_rate": 124724,
+        "original_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "encoder": "Lavf60.16.100",
+          "comment": "made with suno; created=2026-10-23T16:43:42Z; id=162363c9-8c0d-4602-a444-ad3e275d4af2"
+        },
+        "original_container_sha256": "1602d77ef55341b1572515d6a1470aaa8fcf130876e79a1d7a2389a139e87e9c",
+        "pcm_sha256": "d5c3348864d5dc5631a4ee78b53aadc3a3e9b90dfdd734a3c03efd8465d2e8f9",
+        "current_container_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "artist": "William Echols",
+          "album": "H.A.V.O.C. OST",
+          "encoder": "Lavf62.12.101",
+          "comment": "made with suno; created=2026-10-23T16:43:42Z; id=162363c9-8c0d-4602-a444-ad3e275d4af2",
+          "track": "6"
+        }
+      },
+      "attribution": {
+        "composer": "William Echols",
+        "composed_for": "H.A.V.O.C.",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2026 William Echols"
+      },
+      "encoder_options": {
+        "training": "combined",
+        "beam_width": 128
+      },
+      "asset": "foundry-belt.dlt",
+      "metadata": "foundry-belt.json",
+      "status": "encoded_staged",
+      "expected_source_frames": 4320648,
+      "asset_sha256": "67d73382c12102927a7d66187e88dcc75812fb8f42b251a43b853b25e883050d"
+    },
+    {
+      "id": 9,
+      "name": "fortress-run",
+      "title": "Fortress Run",
+      "profile": "stereo16k3",
+      "codebook_count": 4246,
+      "expected_frames": 1421016,
+      "expected_asset_bytes": 1202707,
+      "source": {
+        "filename": "Fortress Run.m4a",
+        "sha256": "f969badfab1ac80776336271014d38521745f534696b4b59309f7e36f758e144",
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration_seconds": 88.8135,
+        "container_duration_seconds": 88.8,
+        "codec": "opus",
+        "audio_bit_rate": 131587,
+        "original_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "encoder": "Lavf60.16.100",
+          "comment": "made with suno; created=2026-10-24T02:42:19Z; id=517bb897-3496-485e-ad16-63a81da5e149"
+        },
+        "original_container_sha256": "f20d5fea22e72e508bd47f453b428ba8e6e4ecff517cd731e66ef5b977351982",
+        "pcm_sha256": "4bab667129e1abacaf8c7260a24ea3bf3bbdd0053370d30eb55605dcb19882c5",
+        "current_container_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "artist": "William Echols",
+          "album": "H.A.V.O.C. OST",
+          "encoder": "Lavf62.12.101",
+          "comment": "made with suno; created=2026-10-24T02:42:19Z; id=517bb897-3496-485e-ad16-63a81da5e149",
+          "track": "7"
+        }
+      },
+      "attribution": {
+        "composer": "William Echols",
+        "composed_for": "H.A.V.O.C.",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2026 William Echols"
+      },
+      "encoder_options": {
+        "training": "combined",
+        "beam_width": 128
+      },
+      "asset": "fortress-run.dlt",
+      "metadata": "fortress-run.json",
+      "status": "encoded_staged",
+      "expected_source_frames": 4263048,
+      "asset_sha256": "4613022a5001933363aef4e2b57c1fcaf6bd194e3d16f8ceade2418b30f4a52f"
+    },
+    {
+      "id": 10,
+      "name": "storm-front",
+      "title": "Storm Front",
+      "profile": "stereo16k3",
+      "codebook_count": 4261,
+      "expected_frames": 1426136,
+      "expected_asset_bytes": 1207031,
+      "source": {
+        "filename": "Storm Front.m4a",
+        "sha256": "d14e8265dc471b029fd0ee4cef8bd51e68bcd7e63c0a19f849e15c50b79d1ad7",
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration_seconds": 89.1335,
+        "container_duration_seconds": 89.12,
+        "codec": "opus",
+        "audio_bit_rate": 135631,
+        "original_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "encoder": "Lavf60.16.100",
+          "comment": "made with suno; created=2026-10-24T17:13:35Z; id=cd869d92-a858-4d13-a624-e7d1eaa8a31e"
+        },
+        "original_container_sha256": "3c3c2c6427711460dcd653836868e374c503570088f36490d40475779fb06078",
+        "pcm_sha256": "4832feb6108363c0c654637cf78aa6026259d50a30cadfcf3300f80e2263022e",
+        "current_container_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "artist": "William Echols",
+          "album": "H.A.V.O.C. OST",
+          "encoder": "Lavf62.12.101",
+          "comment": "made with suno; created=2026-10-24T17:13:35Z; id=cd869d92-a858-4d13-a624-e7d1eaa8a31e",
+          "track": "9"
+        }
+      },
+      "attribution": {
+        "composer": "William Echols",
+        "composed_for": "H.A.V.O.C.",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2026 William Echols"
+      },
+      "encoder_options": {
+        "training": "combined",
+        "beam_width": 128
+      },
+      "asset": "storm-front.dlt",
+      "metadata": "storm-front.json",
+      "status": "encoded_staged",
+      "expected_source_frames": 4278408,
+      "asset_sha256": "a69a03f2b972606d57c1eccc2b1e066320ead11ec97c264136ffb0c483c15516"
+    },
+    {
+      "id": 11,
+      "name": "meteor-reach",
+      "title": "Meteor Reach",
+      "profile": "stereo16k3",
+      "codebook_count": 4282,
+      "expected_frames": 1433176,
+      "expected_asset_bytes": 1212988,
+      "source": {
+        "filename": "Meteor Reach.m4a",
+        "sha256": "5e0c21082b5a1e43c27cad84aafe9fdfb39412d006d2f408ae44170f9e1115f9",
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration_seconds": 89.5735,
+        "container_duration_seconds": 89.56,
+        "codec": "opus",
+        "audio_bit_rate": 139721,
+        "original_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "encoder": "Lavf60.16.100",
+          "comment": "made with suno; created=2026-10-24T17:18:11Z; id=1deb7a43-014a-4dd1-96bc-2921f1ff052e"
+        },
+        "original_container_sha256": "e730a53f83e1990d256557b100a30aa983c401ade8ba7b94ec85277bebb2c68b",
+        "pcm_sha256": "4e244cbbf9b76cc3a262d5f5d0cfc605a27b140af29fdb4c1e69fb214e46f681",
+        "current_container_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "artist": "William Echols",
+          "album": "H.A.V.O.C. OST",
+          "encoder": "Lavf62.12.101",
+          "comment": "made with suno; created=2026-10-24T17:18:11Z; id=1deb7a43-014a-4dd1-96bc-2921f1ff052e",
+          "track": "10"
+        }
+      },
+      "attribution": {
+        "composer": "William Echols",
+        "composed_for": "H.A.V.O.C.",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2026 William Echols"
+      },
+      "encoder_options": {
+        "training": "combined",
+        "beam_width": 128
+      },
+      "asset": "meteor-reach.dlt",
+      "metadata": "meteor-reach.json",
+      "status": "encoded_staged",
+      "expected_source_frames": 4299528,
+      "asset_sha256": "ce816d1bf52252ba4c67c4d35acd02d99e90686f3e8e50d31c9b88624b43c993"
+    },
+    {
+      "id": 12,
+      "name": "carrier-coast",
+      "title": "Carrier Coast",
+      "profile": "stereo16k3",
+      "codebook_count": 4244,
+      "expected_frames": 1420376,
+      "expected_asset_bytes": 1202163,
+      "source": {
+        "filename": "Carrier Coast.m4a",
+        "sha256": "2ddeb794f3303ecb8ad20b214ab8eaa88a397eddc29dbfc0503a0bf6dee3dbf8",
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration_seconds": 88.7735,
+        "container_duration_seconds": 88.76,
+        "codec": "opus",
+        "audio_bit_rate": 138847,
+        "original_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "encoder": "Lavf60.16.100",
+          "comment": "made with suno; created=2026-10-24T17:25:35Z; id=304adff5-c4aa-4826-b93d-7bf6a47fff17"
+        },
+        "original_container_sha256": "9ed7ae884d5b25d448a049245395d259e5599e1e8dc48c6bd30f65033f4f44e4",
+        "pcm_sha256": "44f793720cadc1d8d370431be9ec50ea1c8dab876459e73dd18436bd756aa8dc",
+        "current_container_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "artist": "William Echols",
+          "album": "H.A.V.O.C. OST",
+          "encoder": "Lavf62.12.101",
+          "comment": "made with suno; created=2026-10-24T17:25:35Z; id=304adff5-c4aa-4826-b93d-7bf6a47fff17",
+          "track": "11"
+        }
+      },
+      "attribution": {
+        "composer": "William Echols",
+        "composed_for": "H.A.V.O.C.",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2026 William Echols"
+      },
+      "encoder_options": {
+        "training": "combined",
+        "beam_width": 128
+      },
+      "asset": "carrier-coast.dlt",
+      "metadata": "carrier-coast.json",
+      "status": "encoded_staged",
+      "expected_source_frames": 4261128,
+      "asset_sha256": "d3f3b36361c2765691aeebd730e6bbb91ac98487ee810b8e35a5d39d500e7cd4"
+    },
+    {
+      "id": 13,
+      "name": "carrier-assault",
+      "title": "Carrier Assault",
+      "profile": "stereo16k3",
+      "codebook_count": 4301,
+      "expected_frames": 1439576,
+      "expected_asset_bytes": 1218401,
+      "source": {
+        "filename": "Carrier Assault.m4a",
+        "sha256": "2e7a2530e4c6b6bf6aa300ead3138e6bd38f7c1e3bd77e08ba2e37ce40d6f4f7",
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration_seconds": 89.9735,
+        "container_duration_seconds": 89.96,
+        "codec": "opus",
+        "audio_bit_rate": 135183,
+        "original_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "encoder": "Lavf60.16.100",
+          "comment": "made with suno; created=2026-10-24T17:44:43Z; id=5a8d5502-94c7-4f2a-b9e7-ab590a80a2c7"
+        },
+        "original_container_sha256": "1abbe029f67a8be2d50b971ea1d06b18c2d88d1453bda4c1da3564098eb5a174",
+        "pcm_sha256": "490329b16b1862ce77d62b2917a7685ab744fbdd12a61736811055fc30b4d96c",
+        "current_container_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "artist": "William Echols",
+          "album": "H.A.V.O.C. OST",
+          "encoder": "Lavf62.12.101",
+          "comment": "made with suno; created=2026-10-24T17:44:43Z; id=5a8d5502-94c7-4f2a-b9e7-ab590a80a2c7",
+          "track": "12"
+        }
+      },
+      "attribution": {
+        "composer": "William Echols",
+        "composed_for": "H.A.V.O.C.",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2026 William Echols"
+      },
+      "encoder_options": {
+        "training": "combined",
+        "beam_width": 128
+      },
+      "asset": "carrier-assault.dlt",
+      "metadata": "carrier-assault.json",
+      "status": "encoded_staged",
+      "expected_source_frames": 4318728,
+      "asset_sha256": "b0dbc6f99354e2aeade5f24d3a9b23c87b79eac61ddff26ee86b77eeae18e004"
+    },
+    {
+      "id": 14,
+      "name": "asteroid-belt",
+      "title": "Asteroid Belt",
+      "profile": "stereo16k3",
+      "codebook_count": 4372,
+      "expected_frames": 1463256,
+      "expected_asset_bytes": 1238450,
+      "source": {
+        "filename": "Asteroid Belt.m4a",
+        "sha256": "f6cd98a1f4173a39ffeaabe0bdeefc37a4dc3525840c75f0ddf9277a7c07ddb1",
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration_seconds": 91.4535,
+        "container_duration_seconds": 91.44,
+        "codec": "opus",
+        "audio_bit_rate": 134935,
+        "original_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "encoder": "Lavf60.16.100",
+          "comment": "made with suno; created=2026-10-24T18:11:02Z; id=973cde7d-3bb7-4a90-a79e-a8e8794cab5a"
+        },
+        "original_container_sha256": "d4c07a705be99c5f1f38a31498bdf3ad78901b03338c79b1b8579f7d3784da4a",
+        "pcm_sha256": "9f3d53fd0dea1a17a8f02cd9feea7fd19c81bdb8a8715af5a7d0d472da298f7b",
+        "current_container_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "artist": "William Echols",
+          "album": "H.A.V.O.C. OST",
+          "encoder": "Lavf62.12.101",
+          "comment": "made with suno; created=2026-10-24T18:11:02Z; id=973cde7d-3bb7-4a90-a79e-a8e8794cab5a",
+          "track": "13"
+        }
+      },
+      "attribution": {
+        "composer": "William Echols",
+        "composed_for": "H.A.V.O.C.",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2026 William Echols"
+      },
+      "encoder_options": {
+        "training": "combined",
+        "beam_width": 128
+      },
+      "asset": "asteroid-belt.dlt",
+      "metadata": "asteroid-belt.json",
+      "status": "encoded_staged",
+      "expected_source_frames": 4389768,
+      "asset_sha256": "d34ede1c67a1ed5f05199a88bb3369ebc0c7339074143806401a9cffa11d26d7"
+    },
+    {
+      "id": 15,
+      "name": "lunar-awe",
+      "title": "Lunar Awe",
+      "profile": "stereo16k3",
+      "codebook_count": 4743,
+      "expected_frames": 1587416,
+      "expected_asset_bytes": 1343533,
+      "source": {
+        "filename": "Lunar Awe.m4a",
+        "sha256": "bca042e4ae4d1309de233e9060b062c182fb081fca6f27ad12d6a01cbd19e2e9",
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration_seconds": 99.2135,
+        "container_duration_seconds": 99.2,
+        "codec": "opus",
+        "audio_bit_rate": 139514,
+        "original_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "encoder": "Lavf60.16.100",
+          "comment": "made with suno; created=2026-10-24T18:07:24Z; id=76610524-6bcb-41c4-8fc1-5c8043df5dba"
+        },
+        "original_container_sha256": "caa4adbe49115a43d8fe4f4f6599bdfa18c30a5600be3f8cdfccebff3c90e249",
+        "pcm_sha256": "203fd03b1c34c8aeabbba16d3063bde82b2ed92ecdbf4f84d85e36b31b064de3",
+        "current_container_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "artist": "William Echols",
+          "album": "H.A.V.O.C. OST",
+          "encoder": "Lavf62.12.101",
+          "comment": "made with suno; created=2026-10-24T18:07:24Z; id=76610524-6bcb-41c4-8fc1-5c8043df5dba",
+          "track": "14"
+        }
+      },
+      "attribution": {
+        "composer": "William Echols",
+        "composed_for": "H.A.V.O.C.",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2026 William Echols"
+      },
+      "encoder_options": {
+        "training": "combined",
+        "beam_width": 128
+      },
+      "asset": "lunar-awe.dlt",
+      "metadata": "lunar-awe.json",
+      "status": "encoded_staged",
+      "expected_source_frames": 4762248,
+      "asset_sha256": "877fde2ab43dd636011e0d122d618a61a9b3cb40f64bc9b6eb31217bcfb194dc"
+    },
+    {
+      "id": 16,
+      "name": "ship-graveyard",
+      "title": "Ship Graveyard",
+      "profile": "stereo16k3",
+      "codebook_count": 4366,
+      "expected_frames": 1461336,
+      "expected_asset_bytes": 1236817,
+      "source": {
+        "filename": "Ship Graveyard.m4a",
+        "sha256": "5699c8e36a6727c773ab2e57f846cd4667ee68f83f8bb515d37f60ff9aad04c7",
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration_seconds": 91.3335,
+        "container_duration_seconds": 91.32,
+        "codec": "opus",
+        "audio_bit_rate": 134471,
+        "original_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "encoder": "Lavf60.16.100",
+          "comment": "made with suno; created=2026-10-24T18:07:49Z; id=261e26f5-bc2c-4a63-bf14-639ae8993d5a"
+        },
+        "original_container_sha256": "2431c8099a03014de83691aaebe4cc653c51e04331082f50130d7d39c7b07ae5",
+        "pcm_sha256": "1309edeae4e44ded1fcc2b8e6e80d896c7099578627131866810bc7722c8e8c0",
+        "current_container_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "artist": "William Echols",
+          "album": "H.A.V.O.C. OST",
+          "encoder": "Lavf62.12.101",
+          "comment": "made with suno; created=2026-10-24T18:07:49Z; id=261e26f5-bc2c-4a63-bf14-639ae8993d5a",
+          "track": "15"
+        }
+      },
+      "attribution": {
+        "composer": "William Echols",
+        "composed_for": "H.A.V.O.C.",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2026 William Echols"
+      },
+      "encoder_options": {
+        "training": "combined",
+        "beam_width": 128
+      },
+      "asset": "ship-graveyard.dlt",
+      "metadata": "ship-graveyard.json",
+      "status": "encoded_staged",
+      "expected_source_frames": 4384008,
+      "asset_sha256": "a807115d438663a599d006304c64eb24f6f577ff4e7d941ea72d43fd28386724"
+    },
+    {
+      "id": 17,
+      "name": "citadel-core",
+      "title": "Citadel Core",
+      "profile": "stereo16k3",
+      "codebook_count": 4299,
+      "expected_frames": 1438936,
+      "expected_asset_bytes": 1217856,
+      "source": {
+        "filename": "Citadel Core.m4a",
+        "sha256": "07cff21ffc8196d1ed99506e51ff8ffe9d93db7692aea4cfb599cae347b07a13",
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration_seconds": 89.9335,
+        "container_duration_seconds": 89.92,
+        "codec": "opus",
+        "audio_bit_rate": 135294,
+        "original_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "encoder": "Lavf60.16.100",
+          "comment": "made with suno; created=2026-10-24T18:59:49Z; id=e3d7b3ab-e135-482d-b140-0089fb255b03"
+        },
+        "original_container_sha256": "79f50770d9f1998ab26f854894ce495051fa6f8f6d462a6c31c45b0a7dc28788",
+        "pcm_sha256": "032244cd7c0e01a1f71e0ea940228d6cd643f1c47f6fa3a8374ae8c3035658b6",
+        "current_container_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "artist": "William Echols",
+          "album": "H.A.V.O.C. OST",
+          "encoder": "Lavf62.12.101",
+          "comment": "made with suno; created=2026-10-24T18:59:49Z; id=e3d7b3ab-e135-482d-b140-0089fb255b03",
+          "track": "8"
+        }
+      },
+      "attribution": {
+        "composer": "William Echols",
+        "composed_for": "H.A.V.O.C.",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2026 William Echols"
+      },
+      "encoder_options": {
+        "training": "combined",
+        "beam_width": 128
+      },
+      "asset": "citadel-core.dlt",
+      "metadata": "citadel-core.json",
+      "status": "encoded_staged",
+      "expected_source_frames": 4316808,
+      "asset_sha256": "f602ff741703b0b7a226d86576312f158698a636ac3ab42a852e13e6934f3d1a"
+    },
+    {
+      "id": 18,
+      "name": "orbital-shipyard",
+      "title": "Orbital Shipyard",
+      "profile": "stereo16k3",
+      "codebook_count": 4282,
+      "expected_frames": 1433176,
+      "expected_asset_bytes": 1212988,
+      "source": {
+        "filename": "Orbital Shipyard.m4a",
+        "sha256": "8da9114a62e7e46993d24a8dfb88182b6970f64aaba2ff840e78a0d2aa38a7f6",
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration_seconds": 89.5735,
+        "container_duration_seconds": 89.56,
+        "codec": "opus",
+        "audio_bit_rate": 129713,
+        "original_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "encoder": "Lavf60.16.100",
+          "comment": "made with suno; created=2026-10-24T18:15:32Z; id=4487b73c-a2d1-4656-8c78-34f66b92c5d0"
+        },
+        "original_container_sha256": "7de4651fe90ab02f33e27377f7efdb8fb0e859c78d612f0cc2f142073baf1975",
+        "pcm_sha256": "43cace63453e621c662c05ecdd692f6ddf7d1b071d8167663a302355b21e92ab",
+        "current_container_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "artist": "William Echols",
+          "album": "H.A.V.O.C. OST",
+          "encoder": "Lavf62.12.101",
+          "comment": "made with suno; created=2026-10-24T18:15:32Z; id=4487b73c-a2d1-4656-8c78-34f66b92c5d0",
+          "track": "16"
+        }
+      },
+      "attribution": {
+        "composer": "William Echols",
+        "composed_for": "H.A.V.O.C.",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2026 William Echols"
+      },
+      "encoder_options": {
+        "training": "combined",
+        "beam_width": 128
+      },
+      "asset": "orbital-shipyard.dlt",
+      "metadata": "orbital-shipyard.json",
+      "status": "encoded_staged",
+      "expected_source_frames": 4299528,
+      "asset_sha256": "fc0aa46142d76053ed3b44e5e3856d09b65d0666db8016a56e9b7d481f5e5bbf"
+    },
+    {
+      "id": 19,
+      "name": "space-carrier",
+      "title": "Space Carrier",
+      "profile": "stereo16k3",
+      "codebook_count": 4284,
+      "expected_frames": 1433816,
+      "expected_asset_bytes": 1213533,
+      "source": {
+        "filename": "Space Carrier.m4a",
+        "sha256": "7047bd57e100ed53c1b660a55a54fc3682c7e7e0500271158fbe391f6ed05cac",
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration_seconds": 89.6135,
+        "container_duration_seconds": 89.6,
+        "codec": "opus",
+        "audio_bit_rate": 130507,
+        "original_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "encoder": "Lavf60.16.100",
+          "comment": "made with suno; created=2026-10-24T18:17:45Z; id=1a001d5e-e97d-4fe5-8c5a-03677e840681"
+        },
+        "original_container_sha256": "b0db23eb9b268af21b68a8f880f67674c95fc029f4e24147e4816dd51e19ae55",
+        "pcm_sha256": "ecda11ae435facefe8e383e7e797b3b111352fea30e225f3598139e8a59ce55e",
+        "current_container_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "artist": "William Echols",
+          "album": "H.A.V.O.C. OST",
+          "encoder": "Lavf62.12.101",
+          "comment": "made with suno; created=2026-10-24T18:17:45Z; id=1a001d5e-e97d-4fe5-8c5a-03677e840681",
+          "track": "17"
+        }
+      },
+      "attribution": {
+        "composer": "William Echols",
+        "composed_for": "H.A.V.O.C.",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2026 William Echols"
+      },
+      "encoder_options": {
+        "training": "combined",
+        "beam_width": 128
+      },
+      "asset": "space-carrier.dlt",
+      "metadata": "space-carrier.json",
+      "status": "encoded_staged",
+      "expected_source_frames": 4301448,
+      "asset_sha256": "88810afae4f8c80bc725128ae789915b2e260c87207ee6bf189df53de1391906"
+    },
+    {
+      "id": 20,
+      "name": "jump-gate",
+      "title": "Jump Gate",
+      "profile": "stereo16k3",
+      "codebook_count": 4265,
+      "expected_frames": 1427416,
+      "expected_asset_bytes": 1208120,
+      "source": {
+        "filename": "Jump Gate.m4a",
+        "sha256": "745613656da2bce488587998c0e8b91812e9684dc1b6ade4e867a29ee5568523",
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration_seconds": 89.2135,
+        "container_duration_seconds": 89.2,
+        "codec": "opus",
+        "audio_bit_rate": 135314,
+        "original_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "encoder": "Lavf60.16.100",
+          "comment": "made with suno; created=2026-10-24T18:24:05Z; id=59c0ada8-0bb9-4ebc-b51f-0d36b6243790"
+        },
+        "original_container_sha256": "fc702e761586ecb6dd9b29caa140fd160b1c7c54a5a9d92732387ca55378bfa4",
+        "pcm_sha256": "30430fbe916e70c1a96e1ec70af1ffce765b76d43d91cc3a6efce7ad45c1bdde",
+        "current_container_metadata": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2mp41",
+          "artist": "William Echols",
+          "album": "H.A.V.O.C. OST",
+          "encoder": "Lavf62.12.101",
+          "comment": "made with suno; created=2026-10-24T18:24:05Z; id=59c0ada8-0bb9-4ebc-b51f-0d36b6243790",
+          "track": "18"
+        }
+      },
+      "attribution": {
+        "composer": "William Echols",
+        "composed_for": "H.A.V.O.C.",
+        "license": "MIT",
+        "copyright": "Copyright (c) 2026 William Echols"
+      },
+      "encoder_options": {
+        "training": "combined",
+        "beam_width": 128
+      },
+      "asset": "jump-gate.dlt",
+      "metadata": "jump-gate.json",
+      "status": "encoded_staged",
+      "expected_source_frames": 4282248,
+      "asset_sha256": "0184821e7ade4b165706af8061e35e5da8b9c3b6100a2f771cae254238c42256"
+    }
+  ],
+  "staged_directory": "target/music/full16",
+  "hardware_verified": false
+}

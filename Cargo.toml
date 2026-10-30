@@ -1,0 +1,9 @@
+[package]
+name = "havocmd"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+
+[dependencies]
+image = { version = "0.25.10", default-features = false, features = ["png", "jpeg"] }
+serde_json = "1.0.154"

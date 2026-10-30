@@ -1,0 +1,6 @@
+/target
+/dist
+/target-c64/build
+/target-c64/target
+/tools/encode-digital-music/target
+__pycache__/
